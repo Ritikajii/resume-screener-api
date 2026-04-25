@@ -1,7 +1,12 @@
 ## AI-Powered Resume Screener
 
 ### Project introduction
+# Resume Analyzer
 
+This project is a simple Resume Analyzer built using FastAPI and Python.  
+It extracts text from resumes and analyzes them based on skills and keywords.
+
+---
 A FastAPI-based API that accepts resumes (PDF or text), extracts features, classifies them (e.g., software engineer, data analyst, rejected), and returns a score or decision.
 
 ### Project Summary
